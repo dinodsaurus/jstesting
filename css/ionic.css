@@ -7,13 +7,15 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #4D84E0;}
+  background: #4D84E0;
+
+}
 
 .reveal {
   color: #333333;
   font-weight: normal;
   font-size: 36px;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "Lucida Grande", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 ::selection {
@@ -34,7 +36,7 @@ body {
   margin: 0 0 20px 0;
   color: white;
   font-weight: 300;
-  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "Lucida Grande", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 .reveal h2 {
