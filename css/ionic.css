@@ -204,6 +204,19 @@ body {
 }
 .reveal iframe{
   margin:0 auto!important;
+  min-height:300px;
+  border:none!important;
+  box-shadow: none!important;
+  max-height:1000px;
+}
+.big iframe{
+  height: 800px;
+}
+.medium iframe{
+  height: 400px;
+}
+.big iframe img{
+  width: 100%;
 }
 .reveal section img.main{
   -webkit-animation: spin 5s infinite linear;
@@ -231,4 +244,7 @@ body {
 }
 .col.code > * {
   margin-left: 40px;
+}
+.small{
+  font-size:20px!important;
 }
