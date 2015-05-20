@@ -201,6 +201,26 @@ body {
   border: none;
   background: none;
   box-shadow: none;
+  width: 500px;
+  background:white;
+  padding:20px;
+}
+
+.reveal section img.logosmall {
+  margin-bottom: 50px;
+  border: none;
+  background: none;
+  box-shadow: none;
+  width: 300px;
+  background:white;
+  padding:20px;
+}
+.reveal section img.last {
+  margin-bottom: 50px;
+  border: none;
+  background: none;
+  box-shadow: none;
+  width: 300px;
 }
 .reveal iframe{
   margin:0 auto!important;

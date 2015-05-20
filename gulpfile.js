@@ -17,3 +17,7 @@ gulp.task('html', function() {
     .pipe(rename("index.html"))
     .pipe(gulp.dest('./'));
 });
+
+gulp.task("watch", function () {
+  gulp.watch("indexDev.html", ['html']);
+});
